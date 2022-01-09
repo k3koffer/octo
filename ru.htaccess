@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^v1.1\.html$ / [R=301,L]
+RewriteRule ^index\.html$ / [R=301,L]

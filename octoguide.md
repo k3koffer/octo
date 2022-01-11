@@ -32,4 +32,4 @@ OctoGuide by .k3koffer#6463
 
 <image href="https://yapx.ru/v/QEM9L"><img src="https://i.yapx.ru/QEM9L.png"></image>
 
-Тема была перезалита. [Прошлая тема](https://forum.octothorp.team/t/vse-dlya-municzipalnyh-policzejskih-i-t-d-koroche-pishite-v-ds-i-my-budem-dopolnyat-sajt/9245).
+Гайд был создан специально для GMod сервера Доброград. [Тема на НДБГ](https://forum.octothorp.team/t/vse-dlya-municzipalnyh-policzejskih-i-t-d-koroche-pishite-v-ds-i-my-budem-dopolnyat-sajt/9245).

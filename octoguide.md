@@ -1,9 +1,7 @@
-# octo
+<h2>На связи kekoffer</h2>
 OctoGuide by .k3koffer#6463
 
 <h3>RU</h3>
-
-<h2>На связи kekoffer</h2>
 
 <image href="https://yapx.ru/v/QEM9L"><img src="https://i.yapx.ru/QEM9L.png"></image>
 

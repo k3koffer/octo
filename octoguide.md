@@ -5,7 +5,7 @@ OctoGuide by .k3koffer#6463
 
 <h2>На связи kekoffer</h2>
 
-![image|1142x108, 100%](upload://836I7qdYW5mgJD0kEwGjlzhSAYj.png)
+![image](upload://836I7qdYW5mgJD0kEwGjlzhSAYj.png)
 
 
 Со вчерашнего дня я начал разработку [сайта](https://k3koffer.github.io/octo/), который будет незаменимым пока что для полицейских, а позже и для остальных гос. структур.
@@ -32,6 +32,6 @@ OctoGuide by .k3koffer#6463
 *Хорошего дня!* :cowboy_hat_face:
 
 
-![image|1142x108, 100%](upload://836I7qdYW5mgJD0kEwGjlzhSAYj.png)
+![image](upload://836I7qdYW5mgJD0kEwGjlzhSAYj.png)
 
 Тема была перезалита. [Прошлая тема](https://forum.octothorp.team/t/vse-dlya-municzipalnyh-policzejskih-i-t-d-koroche-pishite-v-ds-i-my-budem-dopolnyat-sajt/9245).

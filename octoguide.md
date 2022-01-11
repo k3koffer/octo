@@ -5,7 +5,7 @@ OctoGuide by .k3koffer#6463
 
 <h2>На связи kekoffer</h2>
 
-<image href="https://yapx.ru/v/QEM9L" title="Изображение загружено на фотохостинг yapx.ru"><img src="https://i.yapx.ru/QEM9L.png" alt="Хостинг картинок yapx.ru"></image>
+<image href="https://yapx.ru/v/QEM9L"><img src="https://i.yapx.ru/QEM9L.png"></image>
 
 
 Со вчерашнего дня я начал разработку [сайта](https://k3koffer.github.io/octo/), который будет незаменимым пока что для полицейских, а позже и для остальных гос. структур.
@@ -32,6 +32,6 @@ OctoGuide by .k3koffer#6463
 *Хорошего дня!* :cowboy_hat_face:
 
 
-<image href="https://yapx.ru/v/QEM9L" title="Изображение загружено на фотохостинг yapx.ru"><img src="https://i.yapx.ru/QEM9L.png" alt="Хостинг картинок yapx.ru"></image>
+<image href="https://yapx.ru/v/QEM9L"><img src="https://i.yapx.ru/QEM9L.png"></image>
 
 Тема была перезалита. [Прошлая тема](https://forum.octothorp.team/t/vse-dlya-municzipalnyh-policzejskih-i-t-d-koroche-pishite-v-ds-i-my-budem-dopolnyat-sajt/9245).
